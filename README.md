@@ -11,15 +11,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project                         |
 |-----------------------------------------------|--------------------------------------------|
-| SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>              |
 | Network Traffic Monitoring and Attack Detection | <a href="#">Detection Lab</a>              |
-| Security Automation with Shuffle SOAR         | <a href="#">SOC Automation Lab</a>         |
-| Incident Response Planning and Execution      | <a href="#">SOC Automation Lab</a>         |
 | Vulnerability Assessment & Physical Security  | <a href="#">Cafe Security Review</a>       |
 | Network Architecture & Hardening              | <a href="#">Home Network Audit</a>         |
 | Malware Analysis & Digital Forensics          | <a href="#">Academic Forensics Practicals</a>|
 
 ## Tools
+
 
 ### Network
 <div>
@@ -37,13 +35,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Volatility-333333?&style=for-the-badge" />
 </div>
 
-### SIEM & Scripting
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-</div>
+
 
 ## Certifications
 
@@ -55,6 +47,29 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cert_III_in_IT-8A2BE2?&style=for-the-badge&logoColor=white" />
 </div>
+
+### Foundational Cybersecurity Labs
+
+**Network Traffic & Packet Analysis**
+* Utilized Wireshark to inspect network packets and analyze HTTP GET and POST requests[cite: 6].
+* Successfully extracted plaintext credentials, such as email and password data, intercepted from insecure HTTP POST frames[cite: 6].
+* Decoded Base64 authorization strings to reveal hidden user credentials within network traffic[cite: 6].
+* Investigated the mechanics of HTTP flood Denial-of-Service (DoS) attacks and how attackers overwhelm server resources with high volumes of web requests[cite: 6].
+
+**Malware Behavior & Vulnerability Research**
+* Conducted dynamic analysis of the Dyre trojan, observing evasion techniques like process hollowing and Windows Registry modifications using tools such as `regshot.exe` and `sigcheck.exe`[cite: 3].
+* Analyzed the propagation methods of the WannaCry ransomware, specifically its exploitation of the Windows SMBv1 protocol via EternalBlue[cite: 4].
+* Documented ransomware persistence mechanisms, including the creation of fake services, modifying the registry for startup execution, and using the `icacls` command to alter file permissions for maximum system control[cite: 4].
+
+**Access Control & System Hardening**
+* Managed Unix file permissions and Access Control Lists (ACLs) using `setfacl` and `getfacl` to enforce strict user privileges across directories[cite: 5].
+* Evaluated the security implications of SUID permissions versus Linux Capabilities (e.g., assigning `cap_net_raw` for the ping command) to mitigate the risks of unauthorized privilege escalation[cite: 5].
+* Explored access control within Docker environments, demonstrating how containers share the host's OS kernel while maintaining isolated user permission structures[cite: 5].
+
+**Intrusion Detection System (IDS) Analysis**
+* Interpreted and analyzed custom Snort rules designed to monitor bidirectional network traffic for malicious activity[cite: 8].
+* Evaluated rule syntax, including header parameters and rule options (content, offset, depth), to identify specific hexadecimal byte patterns (such as `|90|` for NOP instructions) in packet payloads[cite: 8].
+* Examined policy-violation rules tailored to detect unauthorized IRC chat communications and suspicious TCP traffic across targeted subnets[cite: 8].
 
 ## Projects
 - **Detection Lab:** [Brief 1-sentence description of what you achieved]
