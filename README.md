@@ -11,12 +11,12 @@ My journey in computer science has cultivated my passion for cybersecurity, blen
 
 | Skill                                         | Associated Project / Practical Application                 |
 |-----------------------------------------------|------------------------------------------------------------|
-| Cloud Compliance & Control Mapping            | <a href="#">AutoAudit (GRC Cohort)</a>                     |
-| Malware Reverse Engineering & Threat Intel    | <a href="#">Advanced Malware Analysis Labs</a>             |
-| Network Traffic Monitoring & Threat Detection | <a href="#">Detection Lab & Network Forensics</a>          |
-| Digital Forensics & Memory Analysis           | <a href="#">DFIR & Memory Forensic Investigations</a>      |
-| Secure Web Application Development            | <a href="#">Secure Coding & Vulnerability Mitigation</a>   |
-| Cloud Architecture & IaC                      | <a href="#">AWS Highly Available Infrastructure</a>        |
+| Cloud Compliance & Control Mapping            | <a href="https://github.com/rikmrx/AutoAudit-M365-Compliance">AutoAudit (GRC Cohort)</a>                     |
+| Malware Reverse Engineering & Threat Intel    | <a href="https://github.com/rikmrx/Malware_Reverse_Engineering">Malware & RE </a>             |
+| Network Traffic Monitoring & Threat Detection | Detection Lab & Network Forensics</a>          |
+| Digital Forensics & Memory Analysis           | DFIR & Memory Forensic Investigations</a>      |
+| Secure Web Application Development            | Secure Coding & Vulnerability Mitigation</a>   |
+| Cloud Architecture & IaC                      | AWS Highly Available Infrastructure</a>        |
 
 ## Tools
 
