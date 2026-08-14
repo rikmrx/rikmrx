@@ -1,59 +1,82 @@
-# Hello, I'm Richter Marx
+# Richter Marx
 <a href="https://www.linkedin.com/in/richter-marx-2194802b8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a final-trimester Bachelor of Cyber Security student at Deakin University, minoring in Security Management. Backed by a Certificate III in Information Technology, I have a strong foundation in hardware, networking, and help desk support, coupled with a dedication to solving complex security challenges.
+I am a final-trimester Bachelor of Cyber Security student at Deakin University, minoring in Security Management. Backed by a Certificate III in Information Technology, I have a strong foundation in hardware, networking, and help desk support, which I've combined with a dedication to solving modern security challenges.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, combining technical threat-hunting skills with a deep interest in Governance, Risk, and Compliance (GRC). I am currently part of the GRC cohort for the **AutoAudit** project, where I am gaining hands-on experience mapping industry frameworks to actionable cloud security controls. I am eager to transition into a Security Operations Center (SOC) or a Junior GRC role, ready to learn as I go.
+My journey in computer science has cultivated my passion for cybersecurity, blending technical threat-hunting capabilities with a strategic focus on Governance, Risk, and Compliance (GRC). I am currently part of the GRC cohort for the **AutoAudit** project, where I am gaining hands-on experience mapping industry frameworks to actionable cloud security controls. I am eager to transition into a Junior GRC or Security Operations Center (SOC) role, ready to learn as I go and tackle new challenges.
 
 ## Skills
 
-| Skill                                         | Associated Project                                         |
+| Skill                                         | Associated Project / Practical Application                 |
 |-----------------------------------------------|------------------------------------------------------------|
 | Cloud Compliance & Control Mapping            | <a href="#">AutoAudit (GRC Cohort)</a>                     |
-| Vulnerability Assessment & Penetration Testing| <a href="#">Advanced Ethical Hacking Labs</a>              |
+| Malware Reverse Engineering & Threat Intel    | <a href="#">Advanced Malware Analysis Labs</a>             |
 | Network Traffic Monitoring & Threat Detection | <a href="#">Detection Lab & Network Forensics</a>          |
-| Incident Response & System Hardening          | <a href="#">Home Network & Cafe Security Audits</a>        |
+| Digital Forensics & Memory Analysis           | <a href="#">DFIR & Memory Forensic Investigations</a>      |
+| Secure Web Application Development            | <a href="#">Secure Coding & Vulnerability Mitigation</a>   |
+| Cloud Architecture & IaC                      | <a href="#">AWS Highly Available Infrastructure</a>        |
 
 ## Tools
 
-### Network & Exploitation
+### Network & Intrusion Detection
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-222222?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-2B3A42?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint, Forensics & GRC
+### Endpoint, Forensics & Malware Analysis
 <div>
+    <img src="https://img.shields.io/badge/-Volatility-333333?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Autopsy-005571?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-x32dbg-000000?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-YARA-FF0000?&style=for-the-badge" />
+</div>
+
+### Cloud, DevSecOps & GRC
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Intune-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/-Rego_(OPA)-005571?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Immunity_Debugger-4B275F?&style=for-the-badge" />
+</div>
+
+### Languages & Analytics
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?&style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>
 
 ## Certifications
+
 <div>
 <img src="https://img.shields.io/badge/-Cert_III_in_IT-8A2BE2?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Featured Projects
+## Featured Projects & Practical Experience
 
-### AutoAudit: Automated Cloud Compliance Engine
-*Currently active in the Governance, Risk, and Compliance (GRC) cohort for a student-led enterprise platform assessing Microsoft 365 environments.*
-* Mapped the Australian Signals Directorate's (ASD) Essential Eight User Application Hardening framework (Maturity Level 1) to actionable Microsoft Intune Settings Catalog policies[cite: 9].
-* Evaluated Microsoft Graph API endpoints to automate the verification of baseline browser hardening, legacy application deprecation, and malicious content blocking across cloud tenants[cite: 9].
-* Authored and maintained compliance metadata and collaborated on Rego policy logic to bridge the gap between technical cloud configuration and endpoint security governance[cite: 10].
+### AutoAudit: Automated Cloud Compliance Engine (Ongoing)
+*I am currently part of the Governance, Risk, and Compliance (GRC) cohort for AutoAudit, a student-led enterprise platform that assesses Microsoft 365 environments.*
+* In this role, I've been mapping the Australian Signals Directorate's (ASD) Essential Eight User Application Hardening framework (specifically Maturity Level 1) directly to actionable Microsoft Intune Settings Catalog policies.
+* I've also been evaluating Microsoft Graph API endpoints to automate the verification of baseline browser hardening, the deprecation of legacy applications, and malicious content blocking across cloud tenants.
+* Alongside this, I author compliance metadata and collaborate with my team on Rego policy logic, which helps bridge the gap between technical cloud configurations and endpoint security governance.
 
-### Advanced Ethical Hacking & Penetration Testing Practicals
-*A comprehensive suite of labs demonstrating the attack lifecycle, from initial footprinting to privilege escalation and persistence.*
-* **Network Reconnaissance & Firewall Evasion:** Utilized Nmap for stealth host discovery and employed Firewalk to map Layer 4 firewall rulesets and ACLs via TTL expirations[cite: 11, 13].
-* **Vulnerability Assessment:** Conducted authenticated and unauthenticated network scans using Nessus, identifying critical misconfigurations such as unenforced SMB message signing and legacy FTP backdoors[cite: 14, 15].
-* **Exploitation & Privilege Escalation:** Executed buffer overflow attacks using custom Python fuzzing scripts to overwrite the EIP register in vulnerable applications[cite: 16]. Successfully deployed double-encoded Meterpreter payloads to bypass basic AV signatures and leveraged FodHelper techniques for silent UAC bypass and SYSTEM-level escalation[cite: 17].
-* **Network Protocol Attacks:** Demonstrated the security impacts of unauthenticated network protocols by executing ARP poisoning, DNS spoofing, and traffic interception using tools like Ettercap and Wireshark[cite: 18].
+### Advanced Digital Forensics & Incident Response (DFIR) 
+* **Memory Forensics (SIT324):** I used the Volatility 3 framework to analyse physical memory dumps. Through this, I successfully identified process hollowing techniques, tracked malware infection timelines, and extracted plaintext credentials directly from memory.
+* **Network Forensics (SIT327):** I investigated unencrypted protocols and targeted DMZ breaches by correlating firewall logs (like Argus and nfdump) with raw packet data. One of my key wins here was tracking an automated ARP replay attack and precisely identifying exactly 29,719 unique Initialization Vectors (IVs) that were generated to crack WEP encryption.
 
-### Previous Coursework & Security Audits
-* **Local Business Security Assessment:** Conducted a comprehensive cybersecurity review, risk register creation, and physical security assessment for a local cafe.
-* **Home Network Audit:** Executed a self-initiated security audit and mapped complete network architecture to harden personal systems.
-* **Academic Network Forensics:** Analyzed packet captures to investigate network attacks, including precisely identifying 29,719 unique Initialization Vectors (IVs) during a cryptographic investigation.
+### Malware Analysis & Reverse Engineering
+* **Hybrid Analysis (SIT324):** I conducted both static and dynamic analysis on obfuscated binaries, getting hands-on with tools like PeStudio, x32dbg, ProcMon, and Ghidra.
+* **Threat Intelligence (SIT324):** I mapped out execution flows and extracted hidden payloads directly from memory. I also wrote my own custom YARA rules for signature detection and mapped adversarial behaviours (like those of the Remcos RAT) directly back to the MITRE ATT&CK framework.
+
+### Secure Web Application Development
+* **Vulnerability Mitigation (SIT218):** I spent time hardening Java-based web applications against common exploits. This involved implementing Spring Security, configuring Hibernate Validator for strict whitelisting, and actively mitigating SQL Injection (SQLi), Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF) vulnerabilities.
+* **Threat Modelling (SIT218):** I applied the STRIDE threat modelling methodology to proactively identify and document security requirements right throughout the software development lifecycle.
+
+### Cloud Architecture & Cyber Analytics
+* **Cloud Deployments (SIT233):** I designed and deployed a highly available and scalable infrastructure environment using AWS services like EC2, S3, RDS, ALB, and Auto Scaling. I also automated the resource provisioning process using CloudFormation templates.
+* **Machine Learning for Security (SIT384):** I developed Python scripts leveraging Scikit-Learn to tune and evaluate K-Nearest Neighbours (KNN) and Random Forest classifiers. My main focus here was on optimising recall rates to accurately detect credit card fraud within highly skewed and imbalanced datasets.
