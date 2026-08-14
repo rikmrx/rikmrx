@@ -31,7 +31,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Microsoft_Intune-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Rego_(OPA)-005571?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Immunity_Debugger-4B275F?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Velociraptor-333333?&style=for-the-badge" />
 </div>
 
 ## Certifications
